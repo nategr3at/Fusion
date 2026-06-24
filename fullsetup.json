@@ -1,0 +1,1779 @@
+
+{
+  "exportType" : "fusionWidgets",
+  "exportVersion" : 1,
+  "widgets" : [
+    {
+      "dataSource" : {
+        "kind" : "collection",
+        "payload" : {
+          "items" : [
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "IMDB Popular Movies",
+                    "listSlug" : "imdb-popular-movies",
+                    "traktId" : 35053487,
+                    "username" : "nkipling"
+                  }
+                }
+              ],
+              "hideTitle" : false,
+              "id" : "7D0B0A94-0DEF-4FEB-B2A1-EF89B9B45E02",
+              "imageAspect" : "square",
+              "imageURL" : "https:\/\/i.ibb.co\/CKzNBmyx\/1781762552022.png",
+              "title" : "Popular Movies"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "IMDB Top Rated Movies",
+                    "listSlug" : "imdb-top-rated-movies",
+                    "traktId" : 35053478,
+                    "username" : "nkipling"
+                  }
+                }
+              ],
+              "hideTitle" : false,
+              "id" : "0833E296-A425-4FC8-8835-2988CFBA58F7",
+              "imageAspect" : "square",
+              "imageURL" : "https:\/\/i.ibb.co\/27Qwg9Wd\/1781762541747.png",
+              "title" : "Top Rated Movies"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "IMDB Popular Shows",
+                    "listSlug" : "imdb-popular-shows",
+                    "traktId" : 35053495,
+                    "username" : "nkipling"
+                  }
+                }
+              ],
+              "hideTitle" : false,
+              "id" : "F318AE91-6FBF-44E5-AF54-2EB376A89CAA",
+              "imageAspect" : "square",
+              "imageURL" : "https:\/\/i.ibb.co\/rRFRxRdT\/1781762478429.png",
+              "title" : "Popular Shows"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "IMDB Top Rated Shows",
+                    "listSlug" : "imdb-top-rated-shows",
+                    "traktId" : 35053474,
+                    "username" : "nkipling"
+                  }
+                }
+              ],
+              "hideTitle" : false,
+              "id" : "48B1E8F0-DBB1-4B38-B1C9-383C065245D0",
+              "imageAspect" : "square",
+              "imageURL" : "https:\/\/i.ibb.co\/HfYt4Dff\/1781762495353.png",
+              "title" : "Top Rated Shows"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Newest Movie Releases",
+                    "listSlug" : "newest-movie-releases",
+                    "traktId" : 35068057,
+                    "username" : "nkipling"
+                  }
+                }
+              ],
+              "hideTitle" : false,
+              "id" : "0775D189-AB00-4AAA-9BEA-D64B3C16F42B",
+              "imageAspect" : "square",
+              "imageURL" : "https:\/\/i.ibb.co\/8Dx4bfXP\/1781762580666.png",
+              "title" : "Newest Movies"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Newest Show Releases",
+                    "listSlug" : "newest-show-releases",
+                    "traktId" : 35068061,
+                    "username" : "nkipling"
+                  }
+                }
+              ],
+              "hideTitle" : false,
+              "id" : "89FAE5FE-DA8E-4171-8A0B-D45BCAEB977B",
+              "imageAspect" : "square",
+              "imageURL" : "https:\/\/i.ibb.co\/w27qhzc\/1781762591072.png",
+              "title" : "Newest Shows"
+            }
+          ]
+        }
+      },
+      "id" : "collection.CCBF5582-11AF-412F-94A5-346318B5F150",
+      "title" : "IMDB",
+      "type" : "collection.row"
+    },
+    {
+      "dataSource" : {
+        "kind" : "collection",
+        "payload" : {
+          "items" : [
+            {
+              "dataSources" : [
+
+              ],
+              "hideTitle" : false,
+              "id" : "36D7C888-F131-4B49-9806-4FCB4DAAB9AB",
+              "imageAspect" : "poster",
+              "title" : "Action"
+            },
+            {
+              "dataSources" : [
+
+              ],
+              "hideTitle" : false,
+              "id" : "D0129C9B-E325-45A6-9893-8F989379E0AB",
+              "imageAspect" : "poster",
+              "title" : "Adventure"
+            },
+            {
+              "dataSources" : [
+
+              ],
+              "hideTitle" : false,
+              "id" : "432CB737-AF53-442E-92A1-CA452543AF90",
+              "imageAspect" : "poster",
+              "title" : "Animation"
+            },
+            {
+              "dataSources" : [
+
+              ],
+              "hideTitle" : false,
+              "id" : "86DC1C25-FE81-4C8A-8F90-32CBAFC41554",
+              "imageAspect" : "poster",
+              "title" : "Comedy"
+            },
+            {
+              "dataSources" : [
+
+              ],
+              "hideTitle" : false,
+              "id" : "F40150E9-2660-455C-A094-99383B920313",
+              "imageAspect" : "poster",
+              "title" : "Crime"
+            },
+            {
+              "dataSources" : [
+
+              ],
+              "hideTitle" : false,
+              "id" : "3277131F-A8B9-4EE2-9C82-37C80D8BA009",
+              "imageAspect" : "poster",
+              "title" : "Documentary"
+            },
+            {
+              "dataSources" : [
+
+              ],
+              "hideTitle" : false,
+              "id" : "E058F728-5D8E-4564-864D-6AB4F833A49D",
+              "imageAspect" : "poster",
+              "title" : "Drama"
+            },
+            {
+              "dataSources" : [
+
+              ],
+              "hideTitle" : false,
+              "id" : "8392CBC8-380D-47AB-93EF-CEC91C21DDE3",
+              "imageAspect" : "poster",
+              "title" : "Family"
+            },
+            {
+              "dataSources" : [
+
+              ],
+              "hideTitle" : false,
+              "id" : "7B4CBBE6-66F7-40B6-BD40-2AC1055ADFA9",
+              "imageAspect" : "poster",
+              "title" : "Fantasy"
+            },
+            {
+              "dataSources" : [
+
+              ],
+              "hideTitle" : false,
+              "id" : "5B636F8B-5B93-41F1-8CDD-AE2A9EB601E8",
+              "imageAspect" : "poster",
+              "title" : "History"
+            },
+            {
+              "dataSources" : [
+
+              ],
+              "hideTitle" : false,
+              "id" : "3502AB3E-1F2A-4059-A9AD-2C5E78793ECD",
+              "imageAspect" : "poster",
+              "title" : "Martial Arts"
+            },
+            {
+              "dataSources" : [
+
+              ],
+              "hideTitle" : false,
+              "id" : "4A9A7363-C112-43B2-89C6-FD39E46F97E5",
+              "imageAspect" : "poster",
+              "title" : "Music"
+            },
+            {
+              "dataSources" : [
+
+              ],
+              "hideTitle" : false,
+              "id" : "DBF55088-0EA3-4885-B8C8-90E320DAB810",
+              "imageAspect" : "poster",
+              "title" : "Mystery"
+            },
+            {
+              "dataSources" : [
+
+              ],
+              "hideTitle" : false,
+              "id" : "D5FB78F5-5253-4CCE-B3E5-22F21060C048",
+              "imageAspect" : "poster",
+              "title" : "Rom-com"
+            },
+            {
+              "dataSources" : [
+
+              ],
+              "hideTitle" : false,
+              "id" : "B0383895-B201-46D2-80A3-3F52D18CA01E",
+              "imageAspect" : "poster",
+              "title" : "Romance"
+            },
+            {
+              "dataSources" : [
+
+              ],
+              "hideTitle" : false,
+              "id" : "6F40532D-EA69-4C57-AAC3-64CB19FDB50E",
+              "imageAspect" : "poster",
+              "title" : "Sci-fi"
+            },
+            {
+              "dataSources" : [
+
+              ],
+              "hideTitle" : false,
+              "id" : "6752ACAB-6791-433E-B370-E3ADC95F3290",
+              "imageAspect" : "poster",
+              "title" : "Sports"
+            },
+            {
+              "dataSources" : [
+
+              ],
+              "hideTitle" : false,
+              "id" : "9B2957B9-972B-4F30-81EB-26B702FEC9CD",
+              "imageAspect" : "poster",
+              "title" : "Thriller"
+            },
+            {
+              "dataSources" : [
+
+              ],
+              "hideTitle" : false,
+              "id" : "8A9043D4-1D25-4E5E-B5F0-0752F634EFBB",
+              "imageAspect" : "poster",
+              "title" : "War"
+            },
+            {
+              "dataSources" : [
+
+              ],
+              "hideTitle" : false,
+              "id" : "FBD46FBA-1ABD-480D-B83C-3654955C4CA9",
+              "imageAspect" : "poster",
+              "title" : "Western"
+            }
+          ]
+        }
+      },
+      "id" : "collection.09768498-D42F-4AB1-8074-5AC4562A32B7",
+      "title" : "Genre: Movies",
+      "type" : "collection.row"
+    },
+    {
+      "dataSource" : {
+        "kind" : "collection",
+        "payload" : {
+          "items" : [
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Action Shows",
+                    "listSlug" : "action-shows",
+                    "traktId" : 35068066,
+                    "username" : "nkipling"
+                  }
+                }
+              ],
+              "hideTitle" : false,
+              "id" : "742CD5AF-A98F-4D1E-A36A-3F719572B61F",
+              "imageAspect" : "poster",
+              "imageURL" : "https:\/\/i.ibb.co\/d43DBPdf\/image-267.jpg",
+              "title" : "Action"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Adventure Shows",
+                    "listSlug" : "adventure-shows",
+                    "traktId" : 35068078,
+                    "username" : "nkipling"
+                  }
+                }
+              ],
+              "hideTitle" : false,
+              "id" : "A424677E-05F4-4906-B29F-049EA7BFADC3",
+              "imageAspect" : "poster",
+              "imageURL" : "https:\/\/i.ibb.co\/FkG8GmGk\/image-118.jpg",
+              "title" : "Adventure"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "All Animation Shows (Adult + Kids)",
+                    "listSlug" : "all-animation-shows-adult-kids",
+                    "traktId" : 35146758,
+                    "username" : "nkipling"
+                  }
+                }
+              ],
+              "hideTitle" : false,
+              "id" : "B1ACCACD-D429-4D3D-A324-2833BC116FFD",
+              "imageAspect" : "poster",
+              "imageURL" : "https:\/\/i.ibb.co\/Kkcrpg0\/image-306.jpg",
+              "title" : "Animation"
+            },
+            {
+              "dataSources" : [
+
+              ],
+              "hideTitle" : false,
+              "id" : "E3F57B6A-450A-4DF1-B494-4932B249BD12",
+              "imageAspect" : "poster",
+              "title" : "Comedy"
+            },
+            {
+              "dataSources" : [
+
+              ],
+              "hideTitle" : false,
+              "id" : "14A88142-DBC4-4BCE-905D-A6C8B0B17D94",
+              "imageAspect" : "poster",
+              "title" : "Crime"
+            },
+            {
+              "dataSources" : [
+
+              ],
+              "hideTitle" : false,
+              "id" : "65EF37A0-93D7-4A10-9927-517C697A5315",
+              "imageAspect" : "poster",
+              "title" : "Documentary"
+            },
+            {
+              "dataSources" : [
+
+              ],
+              "hideTitle" : false,
+              "id" : "931D574E-5AC4-4FB8-B669-FE24514EC3E5",
+              "imageAspect" : "poster",
+              "title" : "Drama"
+            },
+            {
+              "dataSources" : [
+
+              ],
+              "hideTitle" : false,
+              "id" : "D19AF98B-3500-427E-A88B-F224DADDC23A",
+              "imageAspect" : "poster",
+              "title" : "Family"
+            },
+            {
+              "dataSources" : [
+
+              ],
+              "hideTitle" : false,
+              "id" : "70D698A0-F7F6-458B-AA9E-76BFA1BD61A3",
+              "imageAspect" : "poster",
+              "title" : "Fantasy"
+            },
+            {
+              "dataSources" : [
+
+              ],
+              "hideTitle" : false,
+              "id" : "7E7582E3-A9A2-4659-8F74-AAC06517F0B9",
+              "imageAspect" : "poster",
+              "title" : "History"
+            },
+            {
+              "dataSources" : [
+
+              ],
+              "hideTitle" : false,
+              "id" : "D96284EE-6610-40FC-977A-D7D3804BC8B1",
+              "imageAspect" : "poster",
+              "title" : "Martial Arts"
+            },
+            {
+              "dataSources" : [
+
+              ],
+              "hideTitle" : false,
+              "id" : "6BCF889F-29BD-4F1C-87B5-667AAE9E3182",
+              "imageAspect" : "poster",
+              "title" : "Music"
+            },
+            {
+              "dataSources" : [
+
+              ],
+              "hideTitle" : false,
+              "id" : "2F265449-AACC-4455-AC2C-E1D3A61419D4",
+              "imageAspect" : "poster",
+              "title" : "Mystery"
+            },
+            {
+              "dataSources" : [
+
+              ],
+              "hideTitle" : false,
+              "id" : "6929DBCB-D6DB-46BB-A903-F0FD91BEBF49",
+              "imageAspect" : "poster",
+              "title" : "Romance"
+            },
+            {
+              "dataSources" : [
+
+              ],
+              "hideTitle" : false,
+              "id" : "1CA2CC9C-B315-45DD-A4DD-9C3E339039DE",
+              "imageAspect" : "poster",
+              "title" : "Sci-fi"
+            },
+            {
+              "dataSources" : [
+
+              ],
+              "hideTitle" : false,
+              "id" : "B25B9250-1439-4AF9-9FD0-342E2C278AF4",
+              "imageAspect" : "poster",
+              "title" : "Sports"
+            },
+            {
+              "dataSources" : [
+
+              ],
+              "hideTitle" : false,
+              "id" : "09CB6EC6-29D8-457B-BB2D-6EFF3E3DACD2",
+              "imageAspect" : "poster",
+              "title" : "Thriller"
+            },
+            {
+              "dataSources" : [
+
+              ],
+              "hideTitle" : false,
+              "id" : "B57FA633-9486-4398-8886-ADA9768A6D90",
+              "imageAspect" : "poster",
+              "title" : "War"
+            },
+            {
+              "dataSources" : [
+
+              ],
+              "hideTitle" : false,
+              "id" : "C21A5675-4C3E-4A20-BBF7-07DF19335D5E",
+              "imageAspect" : "poster",
+              "title" : "Western"
+            }
+          ]
+        }
+      },
+      "id" : "collection.DC36FA79-FB9E-4262-B99F-2E1121557A6F",
+      "title" : "Genre: Shows",
+      "type" : "collection.row"
+    },
+    {
+      "dataSource" : {
+        "kind" : "collection",
+        "payload" : {
+          "items" : [
+            {
+              "dataSources" : [
+
+              ],
+              "hideTitle" : false,
+              "id" : "775DC5A5-EA50-4CA3-84F6-70339EF3BEFF",
+              "imageAspect" : "square",
+              "title" : "Reality"
+            },
+            {
+              "dataSources" : [
+
+              ],
+              "hideTitle" : false,
+              "id" : "F1C1B502-27C9-4D29-B387-CBCEFB007284",
+              "imageAspect" : "square",
+              "title" : "Competition"
+            },
+            {
+              "dataSources" : [
+
+              ],
+              "hideTitle" : false,
+              "id" : "EE44E51F-11C5-4826-82C9-78E00649A522",
+              "imageAspect" : "square",
+              "title" : "Sitcoms"
+            },
+            {
+              "dataSources" : [
+
+              ],
+              "hideTitle" : false,
+              "id" : "7697F35D-BB09-4BB0-A7AC-FB273AE91BC6",
+              "imageAspect" : "square",
+              "title" : "Nature Docs"
+            },
+            {
+              "dataSources" : [
+
+              ],
+              "hideTitle" : false,
+              "id" : "8687F010-F078-494E-8A3B-C7120CA3AC0C",
+              "imageAspect" : "square",
+              "title" : "Medical, Fire & Police"
+            },
+            {
+              "dataSources" : [
+
+              ],
+              "hideTitle" : false,
+              "id" : "37E072AA-81CA-4112-8FB5-42813ACBC2B7",
+              "imageAspect" : "square",
+              "title" : "Game Shows"
+            },
+            {
+              "dataSources" : [
+
+              ],
+              "hideTitle" : false,
+              "id" : "0DA4BCA2-BD0C-4F60-A606-E13E91DF5121",
+              "imageAspect" : "square",
+              "title" : "Food & Cooking"
+            },
+            {
+              "dataSources" : [
+
+              ],
+              "hideTitle" : false,
+              "id" : "BFC39512-809D-4FC6-B554-7B85656F683F",
+              "imageAspect" : "square",
+              "title" : "Home"
+            },
+            {
+              "dataSources" : [
+
+              ],
+              "hideTitle" : false,
+              "id" : "3DD4E7A0-8798-4688-AA4B-6E1528239631",
+              "imageAspect" : "square",
+              "title" : "Travel"
+            },
+            {
+              "dataSources" : [
+
+              ],
+              "hideTitle" : false,
+              "id" : "5C5BA22C-EDDC-41D0-A450-C8190DE3277E",
+              "imageAspect" : "square",
+              "title" : "Martial Arts"
+            },
+            {
+              "dataSources" : [
+
+              ],
+              "hideTitle" : false,
+              "id" : "EEC2FA71-2A36-41FD-80BF-D6E1AE2B8E87",
+              "imageAspect" : "square",
+              "title" : "Superhero"
+            },
+            {
+              "dataSources" : [
+
+              ],
+              "hideTitle" : false,
+              "id" : "EA1B8714-D078-4EC1-9E1A-D754F7D40BA2",
+              "imageAspect" : "square",
+              "title" : "Standup"
+            },
+            {
+              "dataSources" : [
+
+              ],
+              "hideTitle" : false,
+              "id" : "83EE55BE-4405-49FC-AEEC-FACAD70CC6BC",
+              "imageAspect" : "square",
+              "title" : "Live Music"
+            }
+          ]
+        }
+      },
+      "id" : "collection.34E9A4CD-B03A-4E8B-B6BD-4CAD5477CFDA",
+      "title" : "Special Genres",
+      "type" : "collection.row"
+    },
+    {
+      "dataSource" : {
+        "kind" : "collection",
+        "payload" : {
+          "items" : [
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Apple TV+ Movies",
+                    "listSlug" : "apple-tv-movies",
+                    "traktId" : 35053670,
+                    "username" : "nkipling"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "D49CFA72-5749-4FC0-8606-2AAF8E1F7281",
+              "imageAspect" : "wide",
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/itsrenoria\/fusion-starter-kit\/refs\/heads\/main\/resources\/widgets\/streaming\/wide\/rdnoni\/color\/appletv-wide-color.jpg",
+              "title" : "Apple TV+ Movies"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "tmdbDiscover",
+                  "payload" : {
+                    "sortBy" : "popularity.desc",
+                    "type" : "movie",
+                    "watchRegion" : "US",
+                    "withWatchProviders" : [
+                      520
+                    ]
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "44FB45E4-F835-46D8-8C37-553A545C164A",
+              "imageAspect" : "wide",
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/itsrenoria\/fusion-starter-kit\/refs\/heads\/main\/resources\/widgets\/streaming\/wide\/rdnoni\/color\/discoveryplus-wide-color.jpg",
+              "title" : "Discovery+ Movies"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Disney+ Movies",
+                    "listSlug" : "disney-movies",
+                    "traktId" : 35053662,
+                    "username" : "nkipling"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "18837D4E-385C-4335-9538-B0ACB645D8BE",
+              "imageAspect" : "wide",
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/itsrenoria\/fusion-starter-kit\/refs\/heads\/main\/resources\/widgets\/streaming\/wide\/rdnoni\/color\/disney-wide-color.jpg",
+              "title" : "Disney+ Movies"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "HBO Max Movies",
+                    "listSlug" : "hbo-max-movies",
+                    "traktId" : 35053681,
+                    "username" : "nkipling"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "159EEF4B-D528-4979-A5B4-53456160A42F",
+              "imageAspect" : "wide",
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/itsrenoria\/fusion-starter-kit\/refs\/heads\/main\/resources\/widgets\/streaming\/wide\/rdnoni\/color\/hbomax-wide-color.jpg",
+              "title" : "HBO Max Movies"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Hulu Movies",
+                    "listSlug" : "hulu-movies",
+                    "traktId" : 35053699,
+                    "username" : "nkipling"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "C5CB7FA4-767B-494F-A60B-A0E94246D45A",
+              "imageAspect" : "wide",
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/itsrenoria\/fusion-starter-kit\/refs\/heads\/main\/resources\/widgets\/streaming\/wide\/rdnoni\/color\/hulu-wide-color.jpg",
+              "title" : "Hulu Movies"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Netflix Movies",
+                    "listSlug" : "netflix-movies",
+                    "traktId" : 35053623,
+                    "username" : "nkipling"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "7FB7F98A-866F-47A5-8E7E-BA8641BA4A88",
+              "imageAspect" : "wide",
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/itsrenoria\/fusion-starter-kit\/refs\/heads\/main\/resources\/widgets\/streaming\/wide\/rdnoni\/color\/netflixdark-wide-color.jpg",
+              "title" : "Netflix Movies"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Paramount+ Movies",
+                    "listSlug" : "paramount-movies",
+                    "traktId" : 35053713,
+                    "username" : "nkipling"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "CCAA6C46-3A7C-4372-9FDD-6C32F9F4532B",
+              "imageAspect" : "wide",
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/itsrenoria\/fusion-starter-kit\/refs\/heads\/main\/resources\/widgets\/streaming\/wide\/rdnoni\/color\/paramount-wide-color.jpg",
+              "title" : "Paramount+ Movies"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Peacock Movies",
+                    "listSlug" : "peacock-movies",
+                    "traktId" : 35053728,
+                    "username" : "nkipling"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "314EE90D-308A-4191-9189-92EB0C157E46",
+              "imageAspect" : "wide",
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/itsrenoria\/fusion-starter-kit\/refs\/heads\/main\/resources\/widgets\/streaming\/wide\/rdnoni\/color\/peacock-wide-color.jpg",
+              "title" : "Peacock Movies"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Amazon Prime Movies",
+                    "listSlug" : "amazon-prime-movies",
+                    "traktId" : 35053645,
+                    "username" : "nkipling"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "28F5837B-DCC1-418B-80B9-77380579833F",
+              "imageAspect" : "wide",
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/itsrenoria\/fusion-starter-kit\/refs\/heads\/main\/resources\/widgets\/streaming\/wide\/rdnoni\/color\/primevideo-wide-color.jpg",
+              "title" : "Prime Movies"
+            }
+          ]
+        }
+      },
+      "id" : "collection.B14678D6-D2D1-4057-8A9D-50CBFED2BA96",
+      "title" : "Streaming: Movies",
+      "type" : "collection.row"
+    },
+    {
+      "dataSource" : {
+        "kind" : "collection",
+        "payload" : {
+          "items" : [
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Apple TV+ Shows",
+                    "listSlug" : "apple-tv-shows",
+                    "traktId" : 35053675,
+                    "username" : "nkipling"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "0181EB36-1EFB-4DC6-B163-36E43D9FF7C4",
+              "imageAspect" : "wide",
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/itsrenoria\/fusion-starter-kit\/refs\/heads\/main\/resources\/widgets\/streaming\/wide\/rdnoni\/transparent\/appletv-wide-transparent.png",
+              "title" : "Apple TV+ Shows"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Discovery+ Shows",
+                    "listSlug" : "discovery-shows",
+                    "traktId" : 35055307,
+                    "username" : "nkipling"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "9FB1BABD-E1AF-4B46-BE9E-3B7C6CF4439A",
+              "imageAspect" : "wide",
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/itsrenoria\/fusion-starter-kit\/refs\/heads\/main\/resources\/widgets\/streaming\/wide\/rdnoni\/transparent\/discoveryplus-wide-transparent.png",
+              "title" : "Discovery+ Shows"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Disney+ Shows",
+                    "listSlug" : "disney-shows",
+                    "traktId" : 35053664,
+                    "username" : "nkipling"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "949D8CCF-1DFA-4B91-B590-C27BD359C5C6",
+              "imageAspect" : "wide",
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/itsrenoria\/fusion-starter-kit\/refs\/heads\/main\/resources\/widgets\/streaming\/wide\/rdnoni\/transparent\/disney-wide-transparent.png",
+              "title" : "Disney+ Shows"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "HBO Max Shows",
+                    "listSlug" : "hbo-max-shows",
+                    "traktId" : 35053687,
+                    "username" : "nkipling"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "55ACDBDA-5DB6-49BB-8CC0-91E904EB7537",
+              "imageAspect" : "wide",
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/itsrenoria\/fusion-starter-kit\/refs\/heads\/main\/resources\/widgets\/streaming\/wide\/rdnoni\/transparent\/hbomax-wide-transparent.png",
+              "title" : "HBO Max Shows"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Hulu Shows",
+                    "listSlug" : "hulu-shows",
+                    "traktId" : 35053700,
+                    "username" : "nkipling"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "E952020D-E861-4705-B81D-48543CF79D2D",
+              "imageAspect" : "wide",
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/itsrenoria\/fusion-starter-kit\/refs\/heads\/main\/resources\/widgets\/streaming\/wide\/rdnoni\/transparent\/hulu-wide-transparent.png",
+              "title" : "Hulu Shows"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Netflix Shows",
+                    "listSlug" : "netflix-shows",
+                    "traktId" : 35053633,
+                    "username" : "nkipling"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "C6E88345-4382-4F69-8C3F-0CA8522ED256",
+              "imageAspect" : "wide",
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/itsrenoria\/fusion-starter-kit\/refs\/heads\/main\/resources\/widgets\/streaming\/wide\/rdnoni\/transparent\/netflix-wide-transparent.png",
+              "title" : "Netflix Shows"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Paramount+ Shows",
+                    "listSlug" : "paramount-shows",
+                    "traktId" : 35053720,
+                    "username" : "nkipling"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "F126B2D6-6E48-4887-9AD8-1409139D99F6",
+              "imageAspect" : "wide",
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/itsrenoria\/fusion-starter-kit\/refs\/heads\/main\/resources\/widgets\/streaming\/wide\/rdnoni\/transparent\/paramount-wide-transparent.png",
+              "title" : "Paramount+ Shows"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Peacock Shows",
+                    "listSlug" : "peacock-shows",
+                    "traktId" : 35053734,
+                    "username" : "nkipling"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "3EB6AB6D-6AE6-4BA1-A8EC-11792CAD7A81",
+              "imageAspect" : "wide",
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/itsrenoria\/fusion-starter-kit\/refs\/heads\/main\/resources\/widgets\/streaming\/wide\/rdnoni\/transparent\/peacock-wide-transparent.png",
+              "title" : "Peacock Shows"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Amazon Prime Shows",
+                    "listSlug" : "amazon-prime-shows",
+                    "traktId" : 35053652,
+                    "username" : "nkipling"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "002B695A-943E-47C8-B780-059AC78F7F9C",
+              "imageAspect" : "wide",
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/itsrenoria\/fusion-starter-kit\/refs\/heads\/main\/resources\/widgets\/streaming\/wide\/rdnoni\/transparent\/primevideo-wide-transparent.png",
+              "title" : "Prime Shows"
+            }
+          ]
+        }
+      },
+      "id" : "collection.C4C489B4-09C8-42C0-8B6B-4B87A164C021",
+      "title" : "Streaming: Shows",
+      "type" : "collection.row"
+    },
+    {
+      "dataSource" : {
+        "kind" : "collection",
+        "payload" : {
+          "items" : [
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Kids Animation Movies",
+                    "listSlug" : "kids-animation-movies",
+                    "traktId" : 35089846,
+                    "username" : "nkipling"
+                  }
+                }
+              ],
+              "hideTitle" : false,
+              "id" : "E258D462-7251-4256-BDE6-C0CE3E151EDA",
+              "imageAspect" : "poster",
+              "imageURL" : "https:\/\/i.ibb.co\/bgWhWW1m\/image-231.jpg",
+              "title" : "Animated Movies"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Kids Animation Shows (0-6 years old)",
+                    "listSlug" : "kids-animation-shows-0-6-years-old",
+                    "traktId" : 35138473,
+                    "username" : "nkipling"
+                  }
+                }
+              ],
+              "hideTitle" : false,
+              "id" : "5E4165A9-F060-44E6-9003-1D9AD3A4E020",
+              "imageAspect" : "poster",
+              "imageURL" : "https:\/\/i.ibb.co\/PvRVsTd2\/image-278.jpg",
+              "title" : "Animated Shows"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Disney Animations",
+                    "listSlug" : "disney-animations",
+                    "traktId" : 35053369,
+                    "username" : "nkipling"
+                  }
+                }
+              ],
+              "hideTitle" : false,
+              "id" : "7716B9EB-3415-498B-9600-E7F9EE77535F",
+              "imageAspect" : "poster",
+              "imageURL" : "https:\/\/i.ibb.co\/Nd3gptLf\/image-392.jpg",
+              "title" : "Disney Animation"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "PBS Kids Shows",
+                    "listSlug" : "pbs-kids-shows",
+                    "traktId" : 35223078,
+                    "username" : "nkipling"
+                  }
+                }
+              ],
+              "hideTitle" : false,
+              "id" : "73F0F3BF-D1B4-4152-8CF3-6EBB67422F12",
+              "imageAspect" : "poster",
+              "imageURL" : "https:\/\/i.ibb.co\/LdB5qjFT\/image-365.jpg",
+              "title" : "PBS Shows"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Noah's & Teddy's Favorites",
+                    "listSlug" : "noah-s-teddy-s-favorites",
+                    "traktId" : 35236187,
+                    "username" : "nkipling"
+                  }
+                }
+              ],
+              "hideTitle" : false,
+              "id" : "C3CD4ADD-271E-41D1-AC36-E01B825B08A5",
+              "imageAspect" : "poster",
+              "imageURL" : "https:\/\/i.ibb.co\/GfmHJChp\/image-352.jpg",
+              "title" : "Noah & Teddy"
+            }
+          ]
+        }
+      },
+      "id" : "collection.410643B2-DF47-496B-8056-A54590A0C62B",
+      "title" : "Kids",
+      "type" : "collection.row"
+    },
+    {
+      "dataSource" : {
+        "kind" : "collection",
+        "payload" : {
+          "items" : [
+            {
+              "dataSources" : [
+
+              ],
+              "hideTitle" : false,
+              "id" : "EF77B3F5-5C2E-4013-99FF-36262CCA0A6A",
+              "imageAspect" : "square",
+              "title" : "1930s"
+            },
+            {
+              "dataSources" : [
+
+              ],
+              "hideTitle" : false,
+              "id" : "E8F1A254-FEA0-4518-90D5-1009D17398E7",
+              "imageAspect" : "square",
+              "title" : "1940s"
+            },
+            {
+              "dataSources" : [
+
+              ],
+              "hideTitle" : false,
+              "id" : "2CA21A5E-F077-4E54-B7C3-32197CE36193",
+              "imageAspect" : "square",
+              "title" : "1950s"
+            },
+            {
+              "dataSources" : [
+
+              ],
+              "hideTitle" : false,
+              "id" : "B581C75F-D9BF-4C59-88F8-48E025408858",
+              "imageAspect" : "square",
+              "title" : "1960s"
+            },
+            {
+              "dataSources" : [
+
+              ],
+              "hideTitle" : false,
+              "id" : "2B772E46-3C07-45F7-BE64-490708157B73",
+              "imageAspect" : "square",
+              "title" : "1970s"
+            },
+            {
+              "dataSources" : [
+
+              ],
+              "hideTitle" : false,
+              "id" : "F5AF71A9-F2C9-4D20-BB86-1D3E7A8082CC",
+              "imageAspect" : "square",
+              "title" : "1980s"
+            },
+            {
+              "dataSources" : [
+
+              ],
+              "hideTitle" : false,
+              "id" : "42AA0DBE-E56A-4F70-9390-A8A54F2B97DC",
+              "imageAspect" : "square",
+              "title" : "1990s"
+            },
+            {
+              "dataSources" : [
+
+              ],
+              "hideTitle" : false,
+              "id" : "F072834B-D242-4A7D-A8B6-1AF624D177DF",
+              "imageAspect" : "square",
+              "title" : "2000s"
+            },
+            {
+              "dataSources" : [
+
+              ],
+              "hideTitle" : false,
+              "id" : "DD17602B-C2CC-4CC8-B1B4-D7FB2FC197C9",
+              "imageAspect" : "square",
+              "title" : "2010s"
+            },
+            {
+              "dataSources" : [
+
+              ],
+              "hideTitle" : false,
+              "id" : "8C13C33B-5752-4ECC-8F82-1B86ACD51314",
+              "imageAspect" : "square",
+              "title" : "2020s"
+            }
+          ]
+        }
+      },
+      "id" : "collection.380EC10D-92C7-4BCA-A8D2-6C96EECA43DA",
+      "title" : "Decades",
+      "type" : "collection.row"
+    },
+    {
+      "dataSource" : {
+        "kind" : "collection",
+        "payload" : {
+          "items" : [
+            {
+              "dataSources" : [
+
+              ],
+              "hideTitle" : false,
+              "id" : "3402CB0A-74FB-4CDB-9BB8-C00846DDAAA9",
+              "imageAspect" : "square",
+              "title" : "History"
+            },
+            {
+              "dataSources" : [
+
+              ],
+              "hideTitle" : false,
+              "id" : "0CE4DA30-0AAD-4328-A001-B876485792AE",
+              "imageAspect" : "square",
+              "title" : "We TV"
+            },
+            {
+              "dataSources" : [
+
+              ],
+              "hideTitle" : false,
+              "id" : "436E5302-E04D-4BB8-A2F1-60C6BCC77ECA",
+              "imageAspect" : "square",
+              "title" : "TLC"
+            },
+            {
+              "dataSources" : [
+
+              ],
+              "hideTitle" : false,
+              "id" : "3E65068E-7AD1-45A8-AA95-DC05095A0EEA",
+              "imageAspect" : "square",
+              "title" : "FX"
+            },
+            {
+              "dataSources" : [
+
+              ],
+              "hideTitle" : false,
+              "id" : "DE72C020-286A-4C22-876C-6B3A915512CB",
+              "imageAspect" : "square",
+              "title" : "National Geographic"
+            },
+            {
+              "dataSources" : [
+
+              ],
+              "hideTitle" : false,
+              "id" : "0FD6B000-9DE5-4610-A51E-861E95C8CB05",
+              "imageAspect" : "square",
+              "title" : "Cartoon Network"
+            },
+            {
+              "dataSources" : [
+
+              ],
+              "hideTitle" : false,
+              "id" : "A8E99596-B07F-48EF-B3F0-DC55CD65E44B",
+              "imageAspect" : "square",
+              "title" : "Nickelodeon"
+            },
+            {
+              "dataSources" : [
+
+              ],
+              "hideTitle" : false,
+              "id" : "0AEFA9D3-84FF-47BF-9C1B-106E91D7464D",
+              "imageAspect" : "square",
+              "title" : "PBS"
+            },
+            {
+              "dataSources" : [
+
+              ],
+              "hideTitle" : false,
+              "id" : "87644A79-2406-4848-836C-217C5E9D7D21",
+              "imageAspect" : "square",
+              "title" : "Comedy Central"
+            },
+            {
+              "dataSources" : [
+
+              ],
+              "hideTitle" : false,
+              "id" : "51679328-C9B2-4827-9AC3-4E0377771036",
+              "imageAspect" : "square",
+              "title" : "A&E"
+            },
+            {
+              "dataSources" : [
+
+              ],
+              "hideTitle" : false,
+              "id" : "002FD682-6D7F-4206-92EB-AFEDD5BBC0FC",
+              "imageAspect" : "square",
+              "title" : "AMC"
+            },
+            {
+              "dataSources" : [
+
+              ],
+              "hideTitle" : false,
+              "id" : "CC87327B-85FF-4E4E-A96D-69B38647CC47",
+              "imageAspect" : "square",
+              "title" : "BBC"
+            },
+            {
+              "dataSources" : [
+
+              ],
+              "hideTitle" : false,
+              "id" : "25D39275-A22D-40E1-8267-82260F8CF183",
+              "imageAspect" : "square",
+              "title" : "Animal Planet"
+            },
+            {
+              "dataSources" : [
+
+              ],
+              "hideTitle" : false,
+              "id" : "057D2395-A9A2-4F62-A55A-331A99E100F7",
+              "imageAspect" : "square",
+              "title" : "HGTV"
+            },
+            {
+              "dataSources" : [
+
+              ],
+              "hideTitle" : false,
+              "id" : "8C0E504E-3F89-4794-816F-51D81B054F5B",
+              "imageAspect" : "square",
+              "title" : "Food Network"
+            },
+            {
+              "dataSources" : [
+
+              ],
+              "hideTitle" : false,
+              "id" : "3C75A50F-28A2-4A8E-8546-11C1C0A374B9",
+              "imageAspect" : "square",
+              "title" : "USA"
+            },
+            {
+              "dataSources" : [
+
+              ],
+              "hideTitle" : false,
+              "id" : "13F07AA2-B5D5-4A0F-AA92-FCF8096EA803",
+              "imageAspect" : "square",
+              "title" : "TNT"
+            },
+            {
+              "dataSources" : [
+
+              ],
+              "hideTitle" : false,
+              "id" : "B23D69BE-0071-4C0B-A4C3-A5791883BC18",
+              "imageAspect" : "square",
+              "title" : "Syfy"
+            },
+            {
+              "dataSources" : [
+
+              ],
+              "hideTitle" : false,
+              "id" : "422D785B-7DBE-4AB9-8842-CEB08B14293E",
+              "imageAspect" : "square",
+              "title" : "Adult Swim"
+            },
+            {
+              "dataSources" : [
+
+              ],
+              "hideTitle" : false,
+              "id" : "EB44552A-2554-420B-90B5-2DED345A6F85",
+              "imageAspect" : "square",
+              "title" : "Bravo"
+            },
+            {
+              "dataSources" : [
+
+              ],
+              "hideTitle" : false,
+              "id" : "CA063F72-70F9-43F9-A3C3-2A13014E1795",
+              "imageAspect" : "square",
+              "title" : "MTV"
+            },
+            {
+              "dataSources" : [
+
+              ],
+              "hideTitle" : false,
+              "id" : "61751154-EB09-4B78-B7FF-9BD0867DA16A",
+              "imageAspect" : "square",
+              "title" : "Vice"
+            },
+            {
+              "dataSources" : [
+
+              ],
+              "hideTitle" : false,
+              "id" : "FCCC7B89-7008-429A-AB5F-5B6F13EC8A82",
+              "imageAspect" : "square",
+              "title" : "Lifetime"
+            }
+          ]
+        }
+      },
+      "id" : "collection.FC4DB423-145C-4BCE-89B0-FC3B53CF7098",
+      "title" : "Networks",
+      "type" : "collection.row"
+    },
+    {
+      "dataSource" : {
+        "kind" : "collection",
+        "payload" : {
+          "items" : [
+            {
+              "dataSources" : [
+
+              ],
+              "hideTitle" : false,
+              "id" : "2BE54DB4-9D65-4A2C-995D-D0A77A3B2D4A",
+              "imageAspect" : "wide",
+              "title" : "James Bond 007"
+            },
+            {
+              "dataSources" : [
+
+              ],
+              "hideTitle" : false,
+              "id" : "53D0E04E-1F58-4E70-A56F-E8D27E6C8E2D",
+              "imageAspect" : "wide",
+              "title" : "Star Wars"
+            },
+            {
+              "dataSources" : [
+
+              ],
+              "hideTitle" : false,
+              "id" : "EF87AD6F-32E4-4B12-B38C-0455AD105662",
+              "imageAspect" : "wide",
+              "title" : "Marvel Cinematic Universe"
+            },
+            {
+              "dataSources" : [
+
+              ],
+              "hideTitle" : false,
+              "id" : "0C3ACDDB-5EA6-4A75-AA03-F703CF3F6241",
+              "imageAspect" : "wide",
+              "title" : "DC Universe"
+            },
+            {
+              "dataSources" : [
+
+              ],
+              "hideTitle" : false,
+              "id" : "B11667D6-C8F4-4E8D-B600-A9F8B04A2198",
+              "imageAspect" : "wide",
+              "title" : "Lord of the Rings"
+            },
+            {
+              "dataSources" : [
+
+              ],
+              "hideTitle" : false,
+              "id" : "B3E46B3D-70CC-44CD-ACDE-233804868695",
+              "imageAspect" : "wide",
+              "title" : "Harry Potter"
+            },
+            {
+              "dataSources" : [
+
+              ],
+              "hideTitle" : false,
+              "id" : "946B5C64-508D-49B0-BD79-AE358D6D72D9",
+              "imageAspect" : "wide",
+              "title" : "Mission Impossible"
+            },
+            {
+              "dataSources" : [
+
+              ],
+              "hideTitle" : false,
+              "id" : "C27D822A-F136-458E-A6C7-6C8B0BC4C0E4",
+              "imageAspect" : "wide",
+              "title" : "Jurassic Park"
+            },
+            {
+              "dataSources" : [
+
+              ],
+              "hideTitle" : false,
+              "id" : "3C3F620B-A9E7-43F8-939D-1F007AB0E464",
+              "imageAspect" : "wide",
+              "title" : "Rocky"
+            },
+            {
+              "dataSources" : [
+
+              ],
+              "hideTitle" : false,
+              "id" : "B42A3380-0AD1-462C-A416-5AB5433A06AE",
+              "imageAspect" : "wide",
+              "title" : "Star Trek"
+            },
+            {
+              "dataSources" : [
+
+              ],
+              "hideTitle" : false,
+              "id" : "C7D72B12-33C8-481F-B4D9-E19D2EBC59D5",
+              "imageAspect" : "wide",
+              "title" : "Indiana Jones"
+            },
+            {
+              "dataSources" : [
+
+              ],
+              "hideTitle" : false,
+              "id" : "47CCFC57-433F-444B-A22C-315278BF206F",
+              "imageAspect" : "wide",
+              "title" : "The Matrix"
+            },
+            {
+              "dataSources" : [
+
+              ],
+              "hideTitle" : false,
+              "id" : "E8F3F8A8-38F7-4E01-B2E6-DFA51D8477EA",
+              "imageAspect" : "wide",
+              "title" : "Back to the Future"
+            },
+            {
+              "dataSources" : [
+
+              ],
+              "hideTitle" : false,
+              "id" : "5E8C6B72-EB83-4743-93D1-A512F3A91B3F",
+              "imageAspect" : "wide",
+              "title" : "John Wick"
+            },
+            {
+              "dataSources" : [
+
+              ],
+              "hideTitle" : false,
+              "id" : "7BBBB0D0-C29B-46EB-A435-9A5986BD0A69",
+              "imageAspect" : "wide",
+              "title" : "Fast & Furious"
+            },
+            {
+              "dataSources" : [
+
+              ],
+              "hideTitle" : false,
+              "id" : "8A4DDBD2-CF76-4DFD-A62C-BF050812CBCD",
+              "imageAspect" : "wide",
+              "title" : "Bourne"
+            },
+            {
+              "dataSources" : [
+
+              ],
+              "hideTitle" : false,
+              "id" : "B8D03DD9-4707-4CC4-A845-20D28E01A390",
+              "imageAspect" : "wide",
+              "title" : "Pirates of the Caribbean"
+            },
+            {
+              "dataSources" : [
+
+              ],
+              "hideTitle" : false,
+              "id" : "E46DC597-8459-49BD-8F05-2854E32840BE",
+              "imageAspect" : "wide",
+              "title" : "X-Men"
+            },
+            {
+              "dataSources" : [
+
+              ],
+              "hideTitle" : false,
+              "id" : "EB46F1A2-D81B-4A22-B6A8-30AAABA7238F",
+              "imageAspect" : "wide",
+              "title" : "Rambo"
+            },
+            {
+              "dataSources" : [
+
+              ],
+              "hideTitle" : false,
+              "id" : "A6D00981-6588-412C-B969-1A20A8A41210",
+              "imageAspect" : "wide",
+              "title" : "Die Hard"
+            },
+            {
+              "dataSources" : [
+
+              ],
+              "hideTitle" : false,
+              "id" : "50BE1D9E-4BDF-4D9D-9EB0-7B0C2A3DA796",
+              "imageAspect" : "wide",
+              "title" : "TMNT"
+            },
+            {
+              "dataSources" : [
+
+              ],
+              "hideTitle" : false,
+              "id" : "36677E6B-A3D5-4DBE-8A34-D1B9D759EBA8",
+              "imageAspect" : "wide",
+              "title" : "Kill Bill"
+            },
+            {
+              "dataSources" : [
+
+              ],
+              "hideTitle" : false,
+              "id" : "7805A34A-AE67-4637-A9D9-46F0B8632961",
+              "imageAspect" : "wide",
+              "title" : "The Godfather"
+            },
+            {
+              "dataSources" : [
+
+              ],
+              "hideTitle" : false,
+              "id" : "040B31EB-3D33-482E-A976-4172AD798814",
+              "imageAspect" : "wide",
+              "title" : "Planet of the Apes"
+            },
+            {
+              "dataSources" : [
+
+              ],
+              "hideTitle" : false,
+              "id" : "F1A9BD24-0F42-4228-AD6F-376B3C018589",
+              "imageAspect" : "wide",
+              "title" : "Alien"
+            },
+            {
+              "dataSources" : [
+
+              ],
+              "hideTitle" : false,
+              "id" : "4D754717-4DB6-40A0-8652-266979ABF49B",
+              "imageAspect" : "wide",
+              "title" : "Terminator"
+            },
+            {
+              "dataSources" : [
+
+              ],
+              "hideTitle" : false,
+              "id" : "9849808D-9ECF-4EA1-90ED-D0B568305DAB",
+              "imageAspect" : "wide",
+              "title" : "Transformers"
+            },
+            {
+              "dataSources" : [
+
+              ],
+              "hideTitle" : false,
+              "id" : "E6EF7681-F137-4FE0-A564-9FE3688106D8",
+              "imageAspect" : "wide",
+              "title" : "Dune"
+            },
+            {
+              "dataSources" : [
+
+              ],
+              "hideTitle" : false,
+              "id" : "685650A7-038C-4F0B-A289-8E7F29198AE0",
+              "imageAspect" : "wide",
+              "title" : "Twilight"
+            },
+            {
+              "dataSources" : [
+
+              ],
+              "hideTitle" : false,
+              "id" : "72D14370-C5B2-436F-A55F-E5B8040A31C4",
+              "imageAspect" : "wide",
+              "title" : "Hunger Games"
+            },
+            {
+              "dataSources" : [
+
+              ],
+              "hideTitle" : false,
+              "id" : "6E1D5F8D-1CE9-4058-B95F-8698BF2C4E13",
+              "imageAspect" : "wide",
+              "title" : "Avatar"
+            },
+            {
+              "dataSources" : [
+
+              ],
+              "hideTitle" : false,
+              "id" : "3964D8F1-BF67-4012-B685-E2D5762976E3",
+              "imageAspect" : "wide",
+              "title" : "Godzilla"
+            }
+          ]
+        }
+      },
+      "id" : "collection.304ADCEA-1EE9-44D8-87E6-DAAA7430DDB3",
+      "title" : "Collections",
+      "type" : "collection.row"
+    },
+    {
+      "cacheTTL" : 3600,
+      "dataSource" : {
+        "kind" : "traktList",
+        "payload" : {
+          "listName" : "Special Series",
+          "listSlug" : "special-series",
+          "traktId" : 35182693,
+          "username" : "nkipling"
+        }
+      },
+      "id" : "trakt.4954A5DC-B5EF-4990-90E0-A69B17DE9D83",
+      "limit" : 50,
+      "presentation" : {
+        "aspectRatio" : "poster",
+        "badges" : {
+          "providers" : false,
+          "ratings" : true
+        },
+        "cardStyle" : "medium"
+      },
+      "title" : "Special Series",
+      "type" : "row.classic"
+    },
+    {
+      "cacheTTL" : 3600,
+      "dataSource" : {
+        "kind" : "traktList",
+        "payload" : {
+          "listName" : "Watchlist",
+          "listSlug" : "__watchlist_all__",
+          "traktId" : -10,
+          "username" : "__me__"
+        }
+      },
+      "id" : "trakt.232E2D1A-7932-411B-95A2-AD336D543E72",
+      "limit" : 50,
+      "presentation" : {
+        "aspectRatio" : "poster",
+        "badges" : {
+          "providers" : false,
+          "ratings" : true
+        },
+        "cardStyle" : "medium"
+      },
+      "title" : "Watchlist",
+      "type" : "row.classic"
+    }
+  ]
+}
